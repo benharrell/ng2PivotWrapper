@@ -3,7 +3,7 @@
 import {ElementRef} from '@angular/core';
 
 declare var jQuery:any;
-delcare var $:any;
+declare var $:any;
 
 //using webpack so import the js/css dependencies
 //for you this might be a <script/style tag
